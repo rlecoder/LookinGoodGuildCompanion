@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Lookin Good Guild Companion
+## Notes: Nearby guildmate alerts and guild professions for WoW: Forever.
+## Version: 1.2.9
+## SavedVariables: LookinGoodGuildCompanionDB, WowYouLookinGoodDB, GuildNearbyDB
+Shared.lua
+Professions.lua
+Help.lua
+Core.lua
